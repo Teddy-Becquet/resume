@@ -1,5 +1,6 @@
 .personal{
     font-size: 50px;
+    color: red;
   }
   .ad{
       font-size: 30px;
@@ -10,10 +11,13 @@
   .ader{
     font-size: 30px;
   }
-  .School{
-    font-size: 50px;
-  }
   .my{
     font-size: 30px;
   }
-  
+  .titre{
+    color: blue;
+    font-size: 70px;
+  }
+  .passion{
+    font-size: 30px;
+  }
