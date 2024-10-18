@@ -2,6 +2,9 @@
     font-size: 50px;
     color: red;
   }
+  .a{
+    font-size: 30px;
+  }
   .ad{
       font-size: 30px;
   }
@@ -10,6 +13,9 @@
   }
   .ader{
     font-size: 30px;
+  }
+  .m{
+    font-size: 30px; 
   }
   .my{
     font-size: 30px;
@@ -21,3 +27,4 @@
   .passion{
     font-size: 30px;
   }
+  
