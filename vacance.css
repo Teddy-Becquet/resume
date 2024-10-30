@@ -11,3 +11,33 @@
 .ligne{
     color: white;
 }
+c
+  
+.bande-rouge {
+    background-color: red;
+    height: 50px;
+    width: 100%;
+ }
+  
+.bande-bleue {
+    background-color: blue;
+    height: 50px;
+    width: 100%;
+ }
+ body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .bande-rouge {
+    background-color: red;
+    height: 50px;
+    width: 100%;
+  }
+  
+  .bande-bleue {
+    background-color: blue;
+    height: 50px;
+    width: 100%;
+  }
